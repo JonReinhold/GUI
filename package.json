@@ -1,0 +1,22 @@
+{
+  "name": "gui",
+  "version": "1.0.0",
+  "description": "testing electon",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonReinhold/GUI.git"
+  },
+  "author": "jon",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JonReinhold/GUI/issues"
+  },
+  "homepage": "https://github.com/JonReinhold/GUI#readme",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
